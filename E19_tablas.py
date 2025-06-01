@@ -21,3 +21,5 @@ for n in range(2,row+1):
 		dato=driver.find_element(By.XPATH, xpath).text
 		print(dato,end=' ')
 	print()
+
+	#Agregando un comentario 
