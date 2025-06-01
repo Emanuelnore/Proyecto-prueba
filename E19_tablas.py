@@ -23,3 +23,4 @@ for n in range(2,row+1):
 	print()
 
 	#Agregando un comentario 
+	#Este es la nuevamodificación para la ramaEmanuel
